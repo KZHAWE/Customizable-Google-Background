@@ -1,0 +1,6 @@
+/* Replace the URL with whichever image you want! */
+  body {
+      background-image: url('https://cdn.pixabay.com/photo/2015/12/09/01/02/mandalas-1084082_960_720.jpg');
+      background-size: cover;
+      background-repeat: no-repeat;
+  }
